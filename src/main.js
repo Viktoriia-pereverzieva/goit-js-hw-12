@@ -108,3 +108,4 @@ btnLoadMore.addEventListener('click', async () => {
   }
 });
 
+console.log(input);
